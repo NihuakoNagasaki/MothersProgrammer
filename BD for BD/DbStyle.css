@@ -1,0 +1,27 @@
+body{
+    background:
+            url(Nice_fon.png)
+            no-repeat fixed;
+}
+.bg-nav{
+
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background: rgb(11, 179, 240);
+    /* box-shadow: 1px 1.7px 0 rgba(3, 3, 3, 0.1); */
+    z-index: 1000;
+    opacity: 0.9;
+}
+.log_button{
+    margin-right: 1%;
+    color: white;
+    border: 1px solid #0a35f3;
+    border-radius: 5px; padding: 9px;
+}
+.For_p{
+    color: black;
+}
+.For_h5{
+    color: black;
+}
